@@ -6,5 +6,5 @@ import BellaMissionControl from './components/BellaMissionControl'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BellaMissionControl />
-  </React.StrictMode>
+  </React.StrictMode>,
 )
